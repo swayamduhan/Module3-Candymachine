@@ -26,7 +26,7 @@ async function main(){
     // const dev2TokenAccount = await getOrCreateAssociatedTokenAccount(connection, devWallet2, mint, devWallet2.publicKey)
 
     // mint
-    const sig = await mintTo(connection, devWallet, mint, dev2TokenAccount.address, devWallet.publicKey, 100000)
+    const sig = await mintTo(connection, devWallet, mint, devTokenAccount.address, devWallet.publicKey, 100000)
     console.log(`mint tx  :  ${sig}`)
 }
 
