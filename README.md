@@ -11,7 +11,7 @@ SPL Token Address - `GU565Zsef2HFL1DspTt7EyQcuBFtZgdfLHLcRD3ukFMw`
 - start transacting
 
 ## Authors
-Swayam Duhan
+Swayam Duhan  
 @swxyamfr on X
 
 ## License
